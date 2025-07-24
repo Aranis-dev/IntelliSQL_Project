@@ -60,3 +60,5 @@ def create_and_populate_database(db_name="data.db"):
 # Corrected the if __name__ check
 if __name__ == "__main__":
     create_and_populate_database()
+
+
